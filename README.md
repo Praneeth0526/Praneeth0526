@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Flutter,Figma & Framer**
 
-- 📫 How to reach me **praneeth2630@gmail.com**
+- 📫 How to reach me [here](praneeth2630@gmail.com)
 
-- 📄 Reach me on [https://www.linkedin.com/in/praneeth-804372282/](https://www.linkedin.com/in/praneeth-804372282/)
+- 📄 Reach me on [Linkdin](https://www.linkedin.com/in/praneeth-804372282/)
 
 - ⚡ Fun fact **I am PASSIONATE about everything**
 
