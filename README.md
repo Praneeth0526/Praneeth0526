@@ -19,7 +19,7 @@
 
 - 📫 How to reach me [here](praneeth2630@gmail.com)
 
-- 📄 Reach me on [Linkdin](https://www.linkedin.com/in/praneeth-804372282/)
+- 📄 Reach me on [LinkedIn](https://www.linkedin.com/in/praneeth-804372282/)
 
 - ⚡ Fun fact **I am PASSIONATE about everything**
 
