@@ -11,19 +11,19 @@
 
 - 👯 I’m looking to collaborate on **Gesture-Controlled Contactless Switch for Smart Home**
 
-- 💬 Ask me about **Python,Streamlit,Figma,Flutter..**
+- 💬 Ask me about **Python,Streamlit,Figma,Django,MongoDB..**
 
 - 📫 How to reach me **praneeth2578@gmail.com**
 
-- 📄 Linkedin [www.linkedin.com/in/praneeth-g-804372282](www.linkedin.com/in/praneeth-g-804372282)
+- 📄 Linkedin [www.linkedin.com/in/praneeth-g-804372282]
 
 - ⚡ Fun fact **I love being a Geek!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/praneeth-g-804372282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praneeth-g-804372282" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/praneeth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/praneeth26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ph05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ph05/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/praneeth-g-804372282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praneeth-g-804372282" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/praneeth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/praneeth26" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ph05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ph05/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
