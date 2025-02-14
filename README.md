@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth0526" alt="praneeth0526" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Review Analysis**
-
-- 🌱 I’m currently learning **Data Structures with Java,Python frameworks and liberaries.**
-
-- 👯 I’m looking to collaborate on **Gesture-Controlled Contactless Switch for Smart Home**
+- 🌱 I’m currently learning **Java Framework,Go Lang.**
 
 - 💬 Ask me about **Python,Streamlit,Figma,Django,MongoDB..**
 
