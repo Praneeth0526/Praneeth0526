@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth0526" alt="praneeth0526" /></a> </p>
 
-- 🌱 I’m currently learning **Java Framework,Go Lang.**
+- Visit: [https://praneeth08.vercel.app]
 
-- 💬 Ask me about **Python,Streamlit,Figma,Django,MongoDB..**
+- 🌱 I’m currently learning **Java Framework,Go Lang**
+
+- 💬 Ask me about **Python,Streamlit,Figma,Django,Supabase..**
 
 - 📫 How to reach me **praneeth2578@gmail.com**
 
@@ -30,6 +32,13 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </a>
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+</a>
+<a href="https://supabase.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+</a>
+
 
  </p>
 
