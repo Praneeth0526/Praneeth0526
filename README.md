@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth0526" alt="praneeth0526" /></a> </p>
 
-- Visit: [https://praneeth08.vercel.app]
+- 🌐 Visit: [praneeth08.vercel.app](https://praneeth08.vercel.app)
 
-- 🌱 I’m currently learning **Java Framework,Go Lang**
+- 🌱 I’m currently learning **Java Framework, Go Lang**
 
-- 💬 Ask me about **Python,Streamlit,Figma,Django,Supabase..**
+- 💬 Ask me about **Python, Streamlit, Figma, Django, Supabase..**
 
-- 📫 How to reach me **praneeth2578@gmail.com**
+- 📫 How to reach me: **[praneeth2578@gmail.com](mailto:praneeth2578@gmail.com)**
 
-- 📄 Linkedin [www.linkedin.com/in/praneeth-g-804372282]
+- 📄 LinkedIn: [Praneeth G](https://www.linkedin.com/in/praneeth-g-804372282/)
 
 - ⚡ Fun fact **I love being a Geek!**
 
@@ -33,8 +33,9 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo_white.svg" alt="django" width="40" height="40" style="background-color: transparent"/>
 </a>
+
 <a href="https://supabase.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
 </a>
