@@ -33,8 +33,9 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo_white.svg" alt="django" width="40" height="40" style="background-color: transparent"/>
+  <img src="https://cdn.simpleicons.org/django/ffffff" alt="django" width="40" height="40"/>
 </a>
+
 
 <a href="https://supabase.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
