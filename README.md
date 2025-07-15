@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth0526" alt="praneeth0526" /></a> </p>
 
-- 🌐 Visit: [praneeth08.vercel.app](https://praneeth08.vercel.app)
+- 🌐 Visit: [praneeth-g.vercel.app](https://praneeth-g.vercel.app)
 
 - 🌱 I’m currently learning **Java Framework, Go Lang**
 
