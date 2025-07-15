@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Streamlit, Figma, Django, Supabase..**
 
-- 📫 How to reach me: **[praneeth2578@gmail.com](mailto:praneeth2578@gmail.com)**
+- 📫 How to reach me: **[connect.praneeth@proton.me](mailto:connect.praneeth@proton.me)**
 
 - 📄 LinkedIn: [Praneeth G](https://www.linkedin.com/in/praneeth-g-804372282/)
 
