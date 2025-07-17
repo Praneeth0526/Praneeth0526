@@ -1,15 +1,13 @@
 <h1 align="center">Hello, I'm Praneeth</h1>
-<h3 align="center">A Data Science and Engineering enthusiast.</h3>
+<h3 align="center">An AI and Engineering enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeth0526&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth0526" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth0526" alt="praneeth0526" /></a> </p>
-
 - 🌐 Visit: [praneeth-g.vercel.app](https://praneeth-g.vercel.app)
 
-- 🌱 I’m currently learning **Java Framework, Go Lang**
+- 🌱 I’m currently learning **Java Framework, Cloud, DevOps**
 
-- 💬 Ask me about **Python, Streamlit, Figma, Django, Supabase..**
+- 💬 Ask me about **Python, Streamlit, Figma, Django, Supabase, Flutter..**
 
 - 📫 How to reach me: **[connect.praneeth@proton.me](mailto:connect.praneeth@proton.me)**
 
