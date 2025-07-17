@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **[connect.praneeth@proton.me](mailto:connect.praneeth@proton.me)**
 
-- 📄 LinkedIn: [Praneeth G](https://www.linkedin.com/in/praneeth-g-804372282/)
+- 📄 LinkedIn: [PRANEETH G](https://www.linkedin.com/in/praneeth-g-804372282/)
 
 - ⚡ Fun fact **I love being a Geek!**
 
