@@ -42,7 +42,6 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" height="40" alt="HTML"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" height="40" alt="CSS"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" height="40" alt="JavaScript"/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="40" height="40" alt="TypeScript"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="40" height="40" alt="Flutter"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="40" height="40" alt="Figma"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="40" height="40" alt="Streamlit"/>
