@@ -24,72 +24,71 @@
 
 <h3 align="left">here's my tech stack ⚙️</h3>
 
-<h3 align="left">here's my tech stack ⚙️</h3>
-
 <table>
   <tr>
     <td><strong>Programming:</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB"/>
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" height="40" alt="Python"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="40" height="40" alt="C"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="40" height="40" alt="Java"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" width="40" height="40" alt="MATLAB"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" width="40" height="40" alt="Dart"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Frontend & UI:</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-      <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80" height="40" alt="Streamlit"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" height="40" alt="HTML"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" height="40" alt="CSS"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" height="40" alt="JavaScript"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="40" height="40" alt="TypeScript"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="40" height="40" alt="Flutter"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="40" height="40" alt="Figma"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="40" height="40" alt="Streamlit"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Backend:</strong></td>
     <td>
-      <img src="https://cdn.simpleicons.org/django/ffffff" width="40" height="40" alt="Django"/>
-      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" alt="Supabase"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django" width="40" height="40" alt="Django"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="40" height="40" alt="Supabase"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Database:</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="40" height="40" alt="SQLite"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Tools:</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40" alt="Git"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" height="40" alt="Docker"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40" height="40" alt="Linux"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="40" height="40" alt="Postman"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="40" height="40" alt="Google Cloud"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Data & ML:</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" alt="Pandas" style="background:white; border-radius:5px; padding:2px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-      <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" width="80" height="40" alt="Matplotlib"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="40" height="40" alt="Pandas"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" width="40" height="40" alt="Scikit-learn"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="40" height="40" alt="Seaborn"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="40" height="40" alt="Matplotlib"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/>
     </td>
   </tr>
 </table>
+
 
 
 
