@@ -82,7 +82,7 @@
   <tr>
     <td><strong>Data & ML:</strong></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" alt="Pandas" style="background:white; border-radius:5px; padding:2px;"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/>
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
       <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" width="80" height="40" alt="Matplotlib"/>
