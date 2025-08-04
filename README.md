@@ -52,7 +52,9 @@
     <td><strong>Backend:</strong></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=django" width="40" height="40" alt="Django"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="40" height="40" alt="Flask"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="40" height="40" alt="Supabase"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" width="40" height="40" alt="Firebase"/>
     </td>
   </tr>
 
