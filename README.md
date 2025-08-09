@@ -5,7 +5,7 @@
 
 - 🌐 Visit: [praneeth-g.vercel.app](https://praneeth-g.vercel.app)
 
-- 🌱 I’m currently learning **Java Framework, Cloud, DevOps**
+- 🌱 I’m currently learning **Cloud, DevOps**
 
 - 💬 Ask me about **Python, Streamlit, Figma, Django, Supabase, Flutter..**
 
