@@ -73,7 +73,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40" alt="Git"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" height="40" alt="Docker"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40" height="40" alt="Linux"/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="40" height="40" alt="Postman"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bruno" width="40" height="40" alt="Bruno"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="40" height="40" alt="Google Cloud"/>
     </td>
   </tr>
