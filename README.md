@@ -5,8 +5,6 @@
 
 - 🌐 Visit: [praneeth-g.vercel.app](https://praneeth-g.vercel.app)
 
-- 🌱 I’m currently learning **Cloud, DevOps**
-
 - 💬 Ask me about **Python, Streamlit, Figma, Django, Supabase, Flutter..**
 
 - 📫 How to reach me: **[connect.praneeth@proton.me](mailto:connect.praneeth@proton.me)**
