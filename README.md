@@ -70,7 +70,7 @@
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40" alt="Git"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" height="40" alt="Docker"/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40" height="40" alt="Linux"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" width="40" height="40" alt="Linux"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="40" height="40" alt="Google Cloud"/>
       <img src="https://assets.streamlinehq.com/image/private/w_40,h_40,ar_1/f_auto/v1/icons/logos/bruno-7vwgvkkemt4mu7cxc0o1h9.png/bruno-w0f7f96er46v5q61gze06.png" width="40" height="40" alt="Bruno"/> 
     </td>
