@@ -84,6 +84,8 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="40" height="40" alt="Seaborn"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="40" height="40" alt="Matplotlib"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="40" height="40" alt="PyTorch"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=keras" width="40" height="40" alt="Keras"/>
     </td>
   </tr>
 </table>
