@@ -27,7 +27,6 @@
     <td><strong>Programming:</strong></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" height="40" alt="Python"/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="40" height="40" alt="C"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="40" height="40" alt="Java"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" width="40" height="40" alt="MATLAB"/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=dart" width="40" height="40" alt="Dart"/>
